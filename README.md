@@ -35,7 +35,6 @@ This project is divided into three specialized repositories to maintain a clean 
 * **Languages:** Python
 * **Frameworks:** Flask, Streamlit
 * **Database:** MongoDB Atlas
-* **Libraries:** Pynput, PyAutoGUI, Requests, PyTZ
 
 ---
 *Developed for educational purposes focusing on distributed systems and cybersecurity monitoring.*
