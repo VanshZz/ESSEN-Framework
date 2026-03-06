@@ -29,7 +29,7 @@ This project is divided into three specialized repositories to maintain a clean 
 
 1. **Agent (Client)** → Beacons to Midman via REST/SSE.
 2. **Midman (Logic)** → Authenticates agent and stores telemetry in **MongoDB**.
-3. **Dashboard (UI)** → Fetches live data and pushes commands through Midman.
+3. **Dashboard (UI)** → Fetches live data and pushes commands through DB.
 
 ## 🛠 Tech Stack
 * **Languages:** Python
