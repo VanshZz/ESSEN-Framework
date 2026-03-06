@@ -2,7 +2,7 @@
 
 Welcome to the **ESSEN Framework**, a distributed 4-tier system designed for remote telemetry, system monitoring, and real-time command execution.
 
-
+![System Architecture](arch.png)
 
 ## 📁 System Components
 
