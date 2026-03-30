@@ -8,7 +8,7 @@ Welcome to the **ESSEN Framework**, a distributed 4-tier system designed for rem
 
 This project is divided into three specialized repositories to maintain a clean separation of concerns and a modular architecture:
 
-### 1. [ESSEN-Midman-Server](https://github.com/VanshZz/essen)
+### 1. [ESSEN-Midman-Server](https://github.com/VanshZz/midmanserv)
 **The Logic Tier:** A Flask-based middleware API that manages the communication between the dashboard and the agents.
 * Handles **Server-Sent Events (SSE)** for real-time tasking.
 * Manages data persistence with **MongoDB**.
@@ -18,7 +18,7 @@ This project is divided into three specialized repositories to maintain a clean 
 * Real-time "Live Agent" tracking and search filters.
 * Integrated command console and screenshot viewer.
 
-### 3. [ESSEN-Agent](https://github.com/VanshZz/midmanserv)
+### 3. [ESSEN-Agent](https://github.com/VanshZz/essen)
 **The Client Tier:** The Windows-native monitoring agent.
 * Features **Caps-Lock aware** keylogging and clipboard monitoring.
 * Implements persistence via **Windows Registry** and **Task Scheduler**.
